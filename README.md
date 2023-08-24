@@ -17,7 +17,7 @@
 - ``` npm test ```
 
 ## d-money API documentation
-- https://documenter.getpostman.com/view/1844288/2s9Y5SVR8K
+- https://documenter.getpostman.com/view/22666982/2s9Y5VUPq3
 
 ## Test Report
 ![screencapture-file-D-Road-to-SDET-Postman-dmoney-collection-newman-b8-Reports-report-html-2023-08-18-22_19_33](https://github.com/salmansrabon/dmoney-api-automation-newman-b8/assets/48891202/1159ca3f-6561-4d72-9fc0-acb2921ee16b)
